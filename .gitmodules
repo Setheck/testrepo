@@ -1,0 +1,3 @@
+[submodule "sub-testrepo"]
+	path = sub-testrepo
+	url = git@github.com:Setheck/sub-testrepo.git
